@@ -8,9 +8,27 @@ make a basic map
 figure out gun/bullet physics (shooting and recoil)
 maybe add grenades and stuff too?
 make player animations
+make a basic campaign
 implement cool easter egg
 get background music
 get sound effects
 implement some sort of point based win condition
 implement jump/falling physics
 make an in-game interface for leaving games or switching teams
+make bots
+add zombies mode
+
+Rubric for me: 
+- All interfaces work (main menu, pause menu, submenus) [5 pts]
+- you can connect to other people's games over internet [8 pts]
+- there is a playable campaign with at least 1 level, objectives, and a finite ending [15 pts]
+- there are at least 10 playable characters [5 pts]
+- there are proper sound effects for the game [2 pts]
+- teams and win conditions work properly in multiplayer [5 pts]
+[BONUS]
+-there is a basic bot to play against the players with at least 3 tiers of difficulty [5 pts]
+
+Goals fo today (10/18/21):
+1. Get UE5 Installed
+2. Watch youtube tutorial on how to use it
+3. create basic interface
