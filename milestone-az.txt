@@ -16,4 +16,5 @@ implement jump/falling physics
 make an in-game interface for leaving games or switching teams
 
 Andy
-Work on most of the physics of the game and animations
+Learn to do physcis from youtube videos.
+Work on most of the physics of the game and animations.
