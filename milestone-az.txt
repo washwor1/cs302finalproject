@@ -1,0 +1,19 @@
+To do (idea brainstorming):
+get ue5 setup and figure out how to use it (both)
+make main menu
+make other interfaces
+create server based multiplayer
+find models to use for weapons/players
+make a basic map
+figure out gun/bullet physics (shooting and recoil)
+maybe add grenades and stuff too?
+make player animations
+implement cool easter egg
+get background music
+get sound effects
+implement some sort of point based win condition
+implement jump/falling physics
+make an in-game interface for leaving games or switching teams
+
+Andy
+Work on most of the physics of the game and animations
