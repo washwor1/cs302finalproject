@@ -18,3 +18,25 @@ make an in-game interface for leaving games or switching teams
 Andy
 Learn to do physcis from youtube videos.
 Work on most of the physics of the game and animations.
+
+Rubric:
+Physcis in the game [10 points] 
+    -jumping
+    -walking
+    -sprinting
+    -crouch
+    -prone
+    -slide
+    -fall damage
+
+Designing a map [10 points]
+
+Creating throwables [10 points] two points each
+    -grenades
+    -stuns
+    -decoy
+    -c4
+    -smoke
+
+implementing Gun and Damage System [10 point]
+
