@@ -8,9 +8,17 @@ make a basic map
 figure out gun/bullet physics (shooting and recoil)
 maybe add grenades and stuff too?
 make player animations
+make a basic campaign
 implement cool easter egg
 get background music
 get sound effects
 implement some sort of point based win condition
 implement jump/falling physics
 make an in-game interface for leaving games or switching teams
+
+Rubric
+
+Goals fo today (10/18/21):
+1. Get UE5 Installed
+2. Watch youtube tutorial on how to use it
+3. create basic interface
