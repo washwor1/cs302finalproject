@@ -1,3 +1,6 @@
+Andy Zeng
+Github: https://github.com/washwor1/cs302project5
+
 To do (idea brainstorming):
 get ue5 setup and figure out how to use it (both)
 make main menu
