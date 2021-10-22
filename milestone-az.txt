@@ -38,5 +38,9 @@ Creating throwables [10 points] two points each
     -c4
     -smoke
 
-implementing Gun and Damage System [10 point]
+Implementing Gun and Damage System [10 point]
+
+Goals for 10/18/21
+    Download and Install Unreal Engine 5
+    Follow a tutorial
 
