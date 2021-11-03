@@ -1,4 +1,4 @@
-Total Hours: 6 
+Total Hours: 14 
 
 (10/18/21)
 2 hour: set up github, wrote to-do list, decided with partner what work we wanted to do, installed UE5
@@ -9,3 +9,16 @@ Total Hours: 6
 
 (10/22/21)
 2 hour: watched the other half of the tutorial
+
+(10/25/21)
+3 Hours: Made a basic map using what I learned in the tutorial and did a lot of playing around (nanite).
+
+(10/28/21)
+1.5 Hour: Began watching another tutorial for basics of implementing c++ into unreal engine so I can have better control over certain player aspects
+https://www.youtube.com/watch?v=KQgOqyYoHAs
+
+(10/29/21)
+1.5 Hour: Watched the other half of that tutorial.
+
+(11/1/21)
+2 Hours: Worked with Andy to test some things with the player models and using the map I made
