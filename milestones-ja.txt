@@ -1,10 +1,10 @@
 To do (idea brainstorming):
-get ue5 setup and figure out how to use it (both)
+get ue5 setup and figure out how to use it (both) -DONE-
 make main menu
-make other interfaces
+make other interfaces 
 create server based multiplayer
 find models to use for weapons/players
-make a basic map
+make a basic map -DONE-
 figure out gun/bullet physics (shooting and recoil)
 maybe add grenades and stuff too?
 make player animations
@@ -28,7 +28,3 @@ Rubric for me:
 [BONUS]
 -there is a basic bot to play against the players with at least 3 tiers of difficulty [5 pts]
 
-Goals fo today (10/18/21):
-1. Get UE5 Installed
-2. Watch youtube tutorial on how to use it
-3. create basic interface
