@@ -3,6 +3,7 @@ Github: https://github.com/washwor1/cs302project5
 Report
 
 Andy:
+This week I worked on adding custom models to Jay's custom map. Allowing me to add death to certain parts of the math. Also got use to working on the Unreal Engine blueprint system. I got the ragdoll to work as well if it touch certain objects on the map. Having followed along with the tutorial I was able to create a relitively decent first person experenice.
 
 Jay:
 This week I decided to move on to map making as I finished the basic tutorial last week which basically covered all I needed to know to make maps. Andy needed a basic map to 
