@@ -1,0 +1,9 @@
+Andy Zeng and Walter Ashworth
+Github: https://github.com/washwor1/cs302project5
+Jay Ashworth's Report
+
+Jay:
+This week I decided to move on to map making as I finished the basic tutorial last week which basically covered all I needed to know to make maps. Andy needed a 
+basic map to test out his character modeling and bullet physics stuff, so I made a small arena with some boxes and platforms. I also played around with the creator and learned
+some new things about material creation. Additionally, I started watching a tutorial about how to implement c++ code into my project which will be essential in later stages when
+I get to making things like bots, levels, objectives, and interfaces. 
