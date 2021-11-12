@@ -1,4 +1,4 @@
-Total Hours: 14 
+Total Hours: 17
 
 (10/18/21)
 2 hour: set up github, wrote to-do list, decided with partner what work we wanted to do, installed UE5
