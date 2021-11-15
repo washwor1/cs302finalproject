@@ -33,4 +33,5 @@ Total Hours: 22
 1 Hr: Fiddling around the the bullets to create better hit regs.
 
 11/14/21
-4 Hr: Changed how the charater functions and added bullets to the game, but hit reg still needs to be added and other movement functions. Health and armor bar were added and also getting damage to to change the armor and health bar.
+4 Hr: Changed how the charater functions and added bullets to the game, but hit reg still needs to be added and other movement functions. 
+Health and armor bar were added and also getting damage to to change the armor and health bar.
