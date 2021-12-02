@@ -28,3 +28,57 @@ https://www.youtube.com/watch?v=KQgOqyYoHAs
 
 (11/5/21)
 2 Hours: Made the landscape for my map, the ambiance, then started laying out the major sections of my map like the borders and the giant crates.
+
+(11/8/21)
+3 Hours: Finished up my map and polished all the details like what the player can see/lighting/plants and landscape textures. I also imported a lot of assets from a 
+library called quixel bridge.
+
+(11/15/21)
+3 Hours: I took a break off last week after finishing my map. Today, I made a little ball roll game based entirely in c++ in order to further develop my knowledge
+of coding in c++ in the game engine.
+
+(11/17/21)
+1 Hour: Talked to andy about certain things we wanted to accomplish with the ai plus some other game related ideas for the presentation.
+
+(11/19/21)
+2 Hours: Started following this tutorial series: https://www.youtube.com/watch?v=P12uWSFVSIc&t=1s to get some ideas on how to build my AI in c++. Finished all but the 
+last video.
+
+(11/20/21)
+1 Hour: Finished the last video from yesterday. I now have an ai in pure c++ that can walk around to waypoints using the built in A* pathfinding and navmesh.
+
+(11/24/21)
+4 Hours: I really wanted to implement my own A* pathfinding instead of using the built in one so today I worked on my own implementation that could track a graph I
+made by hand. Unfortunately I was not able to get this to mesh with UE's navmesh because I couldn't figure out how to interface with individual vertices in their nav
+mesh, and we only have a week or so left, So I decided to give up on this route and use the built in one and maybe try my hand at my own pathfinding in a later.
+project.
+
+(11/25/21)
+1 Hour: It was Thanksgiving, so I didn't have much time to actually get work done today, but I did research my options for how I could improve my AI from just a 
+guy walking around with no animation to waypoints. I decided to merge my c++ code into blueprints to make development faster at this point because I was running out 
+of time.
+
+(11/27/21)
+3 Hours: I began translating my code into blueprints today which went surprisingly smoothly. At the end, I had an AI that could either walk to waypoints or walk
+to random points in the navigable area. I also figured out how to add animations to my skeletal mesh which was a huge improvement over the floaty t pose guy i had 
+before.
+
+(11/28/21)
+4 Hours: I added a ton of functionality to my AI behavior tree which allow the AI to switch between modes of patrolling, searching, and chasing. In my chasing branch,
+I also added the ability for the AI to smack you like a zombie of he gets within a certain radius of your player using a hit animation I found online. To make the 
+animation, I had to do a blend on the top and bottom animations, but insert the smacking animation to the top when the AI hit you. This was to keep the ai from
+just floating towards you while its top half was attacking you. 
+
+(11/29/21) 
+6 Hours: Today was the fun part: merging andy's player and menu data together with my AI and map data. After a lot of talking to him and tinkering around, I was able
+to get damage and bullets to work on my AI by casting an AI in the event that a player cast failed in the hit event of a bullet. I handled the AI death by teleporting
+it away and back after restoring its health. I also had to modify the way that we handled player death because originally it was built into the functionality of the 
+gun, but this wouldnt work in the case of the AI, so we had to add a completely overhauled death section to the player. Then we merged both of the characters into my
+map which was relatively smooth except the multiplayer crashed now for whatever reason. We kind of fixed this after ~hour of searching online by just deleting my
+landscape, but this wasnt a good fix because obviously the landscape was broken. However, the guy we found the solution from said he couldnt find anything other than
+this or changing the UE code so we werent really able to fix this problem. Other than these major things, I made some minor adjustments to my AI such as making it
+where you have to be in a certain radius of the AI after it does the animation for damage to actually take place.
+
+
+
+
