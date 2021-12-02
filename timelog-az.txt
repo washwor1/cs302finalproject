@@ -35,3 +35,25 @@ Total Hours: 22
 11/14/21
 4 Hr: Changed how the charater functions and added bullets to the game, but hit reg still needs to be added and other movement functions. 
 Health and armor bar were added and also getting damage to to change the armor and health bar.
+
+11/17/21
+30 min ~ 1 hr: Talk to jay about about the ai and how we wanted it to work.
+
+11/19/21
+1 Hr: Create main menu that connects with the main level.
+
+11/20/21
+1 Hr: Created pause menu that continues the game or exit to the main menu
+
+11/22/21
+2 Hr: Changed how the the bullets come out and how the player would take damage. It uses linetracing instead of collision of hit boxes.
+
+11/26/21
+2 Hr: Worked on figuring out how to set up grenades and added in frag grenades
+
+11/28/21
+1 Hr: Finished getting the frag grenade set up and just added in the smoke grenades
+
+11/29/21
+3 Hr: Fixed bugs and changed it so the player can crouch under objects if the maps has it. Added another gun and ammo box that can be picked up. 
+
