@@ -1,7 +1,7 @@
 Andy Zeng
 Github: https://github.com/washwor1/cs302project5
 
-Total Hours: 22
+Total Hours: ~33
 10/18/21
 2 Hr: Have Unreal Engine 5 downloaded and start on learning how to create simple models and movement.
 
