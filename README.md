@@ -38,11 +38,19 @@ In this mode, the objective is to attack the other player until one of you gets 
 
 # Known Bugs/Flaws
 -The project will not cook due to an engine bug so we cannot package it properly.
+
 -There is an issue where closing and reopening the project will reset some variable configuration of the AI back to their default value, causing its patrol funcitonality to not work at all unless it is reconfigured manually.
+
 -The character stutters a lot in the editor especially when there is a lot of lag. 
+
 -The AI only spawns on one side of the singleplayer map.
+
 -The AI will always run back to where it was killed upon being respawned, so it can lead to some wonky behavior if you leave that area.
+
 -There is another bug involving the game engine where, upon joining a multiplayer world, a configured landscape will cause the game to crash due to a heightmap error. Because of this, the ground texture for multiplayer is blank and looks bad. (better than it crashing i suppose).
+
 -Your health can display a negative value upon death, although this is only a visual defect and doesn't affect gameplay.
+
 -The death menu is not centered right on some displays
+
 -Forgot to remove herobrine
