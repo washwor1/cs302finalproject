@@ -2,6 +2,8 @@
 
 This is our (Jay Ashworth and Andy Zeng) final project for cs302. The game is built on the brand new Unreal Engine 5, and features a versus multiplayer mode where you can go head to head with a friend over lan and a singleplayer "zombie-esque" mode where you can battle with a NPC AI that will keep respawning and attacking you until you die or get bored - whichever comes first.
 
+Link to source: https://drive.google.com/file/d/1oVnasvlM2ctUphUfF6WMIRnmd4aejLwE/view?usp=sharing
+
 # How to play it/requirements
 
 Unfortunately, the game engine being in beta, we have a couple bugs that have come up that won't allow us to get past the "cooking" stage of package development despite each of our individual packages compiling. The game is technically compiled/built, it is just not in an executable format. Therefore, if you want to play the game you have to do so in the game editor. 
